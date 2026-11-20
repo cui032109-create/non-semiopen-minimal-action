@@ -49,7 +49,7 @@ $$
 (m,n)\cdot x=s^m r^n x
 $$
 
-定义一个极小的 $\mathbb{N}_0^2$ 作用，并且对每个 $m+n>0$ 都存在非空开集 $U_{m,n}\subset X$满足
+定义一个极小的 $\mathbb{N}\_0^2$ 作用，并且对每个 $m+n>0$ 都存在非空开集 $U\_{m,n}\subset X$满足
 
 $$
 \boxed{s^m r^n(U_{m,n})=D.}
